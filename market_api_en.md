@@ -1,4 +1,4 @@
-Market Quotations API
+# Market Quotations API
 
 API address：
           https://www.fatbtc.com/m/allticker/{timestamp}
