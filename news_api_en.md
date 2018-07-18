@@ -3,7 +3,7 @@
 
 
 Get announcement list API: 
-https://www.fatbtc.us/news/100/{Chinese version value 1, English version value 0}/{pages}/{numbers of per page}/timestamp
+https://www.fatbtc.us/news/100/{Chinese version value 1, English version value 0}/{page}/{pageSize}/timestamp
 
 
 For example
