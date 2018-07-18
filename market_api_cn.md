@@ -1,5 +1,6 @@
 # 市场行情API
 
+建议中国大陆用户使用www.fatbtc.us
 
 API地址：
 
