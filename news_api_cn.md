@@ -1,11 +1,11 @@
 # 新闻API
 
 获取公告列表API：
-https://www.fatbtc.us/news/100/{中文版本取值1，英文版本取值0}/{页数}/{每页条数}/时间戳
+https://www.fatbtc.us/news/1/100/{中文版本取值1，英文版本取值0}/{页数}/{每页条数}/时间戳
 
 
 例如：
-https://www.fatbtc.us/news/100/1/1/10/1531367149000
+https://www.fatbtc.us/news/1/100/1/1/10/1531367149000
 
     news内容为：
     a_title 标题
