@@ -3,11 +3,11 @@
 
 
 Get announcement list API: 
-https://www.fatbtc.us/news/100/{Chinese version value 1, English version value 0}/{page}/{pageSize}/timestamp
+https://www.fatbtc.us/news/1/100/{Chinese version value 1, English version value 0}/{page}/{pageSize}/timestamp
 
 
 For example
-https://www.fatbtc.us/news/100/1/1/10/1531367149000
+https://www.fatbtc.us/news/1/100/1/1/10/1531367149000
 
     news content is: 
     a_title: title
