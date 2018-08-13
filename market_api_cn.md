@@ -4,11 +4,11 @@
 
 API地址：
 
-          https://www.fatbtc.com/m/allticker/{timestamp}
+          https://www.fatbtc.com/m/allticker/1/{timestamp}
           其中{timestamp}表示当前时间戳
 
           例如：
-          https://www.fatbtc.com/m/allticker/1513327434000
+          https://www.fatbtc.com/m/allticker/1/1513327434000
 
 返回结果为JSON对象，形式如下：
 
