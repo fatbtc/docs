@@ -1,11 +1,11 @@
 # Market Quotations API
 
 API address：
-          https://www.fatbtc.com/m/allticker/{timestamp}
+          https://www.fatbtc.com/m/allticker/1/{timestamp}
          {timestamp} means current time stamp
 
 For example：
-          https://www.fatbtc.com/m/allticker/1513327434000
+          https://www.fatbtc.com/m/allticker/1/1513327434000
    
 
 Return JSON Object as follows：
