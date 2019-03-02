@@ -63,3 +63,13 @@ Explanation of key points：
           bis1：the bid1 price and amount
           ask1：the ask1 price and amount
           upOrDown：compare with the last transaction, the range of rise and fall of current transaction price
+	  canBuy: Can I buy, 1 is you can buy
+	  canSell: Can I sell, 1  is you can buy
+	  pricePrecision: price decimal place
+	  volumePrecision: number of decimal places
+	  minBuyVolume: minimum purchase amount
+	  minBuyAmount: minimum purchase amount
+	  minSellVolume: minimum sell volume
+	  fixedBuyPrice: fixed buy price
+	  weekOpen: opening price within 7 days
+	  
