@@ -41,7 +41,7 @@ API地址：
 					      "canSell": 1,
 					      "stopDesc": "",
 					      "quoteCurrencyName": "",
-					      "baseCurrencyName": "玩客币(链克)",
+					      "baseCurrencyName": "WKC",
 					      "minBuyVolume": 5,
 					      "minBuyAmount": 0,
 					      "minSellVolume": 5,
