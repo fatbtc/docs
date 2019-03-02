@@ -54,22 +54,22 @@ Return JSON Object as follows：
 
 Explanation of key points：
 
-          dspName：the trade pairs, WKC/FCNY means WKC is the basic money and FCNY is the account money;
-          open：the open price, for a 365x24 running market, it’s the price of 24 hours ago
-          high：the highest price of last 24 hours
-          low：the lowest price of last 24 hours
-          close：the last transaction price
-          volume：the volumes of last 24 hours
-          bis1：the bid1 price and amount
-          ask1：the ask1 price and amount
-          upOrDown：compare with the last transaction, the range of rise and fall of current transaction price
-	  canBuy: Can I buy, 1 is you can buy
-	  canSell: Can I sell, 1  is you can buy
-	  pricePrecision: price decimal place
-	  volumePrecision: number of decimal places
-	  minBuyVolume: minimum purchase amount
-	  minBuyAmount: minimum purchase amount
-	  minSellVolume: minimum sell volume
-	  fixedBuyPrice: fixed buy price
-	  weekOpen: opening price within 7 days
+		dspName：the trade pairs, WKC/FCNY means WKC is the basic money and FCNY is the account money;
+		open：the open price, for a 365x24 running market, it’s the price of 24 hours ago
+		high：the highest price of last 24 hours
+		low：the lowest price of last 24 hours
+		close：the last transaction price
+		volume：the volumes of last 24 hours
+		bis1：the bid1 price and amount
+		ask1：the ask1 price and amount
+		upOrDown：compare with the last transaction, the range of rise and fall of current transaction price
+		canBuy: Can I buy, 1 is you can buy
+		canSell: Can I sell, 1  is you can buy
+		pricePrecision: price decimal place
+		volumePrecision: number of decimal places
+		minBuyVolume: minimum purchase amount
+		minBuyAmount: minimum purchase amount
+		minSellVolume: minimum sell volume
+		fixedBuyPrice: fixed buy price
+		weekOpen: opening price within 7 days
 	  
