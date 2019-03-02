@@ -18,28 +18,36 @@ API地址：
 			"data":{
 				"wkcfcny_ticker":
 				{
-					"state":1,
-					"msg":"success",
-					"dspName":"WKC/FCNY",
-					"symbol":"wkcfcny",
-					"timestamp":1513327412135,
-					"open":5.23,
-					"high":5.299,
-					"low":4.8,
-					"close":4.99,
-					"count":154,
-					"volume":151744.8,
-					"amount":63626.3828,
-					"bis1":[4.95,37],
-					"ask1": [5.09,92.4],
-					"upOrDown":1,
-					"pricePrecision":3,
-					"volumePrecision":1,
-					"order":1,
-					"areaId":1,
-					"canBuy":1,
-					"canSell":1,
-					"stopDesc":null
+					      "status": 1,
+					      "msg": "success",
+					      "dspName": "WKC/FCNY",
+					      "symbol": "wkcfcny",
+					      "timestamp": 1551495353625,
+					      "open": 0.3712,
+					      "high": 0.3762,
+					      "low": 0.3527,
+					      "close": 0.3554,
+					      "count": 469,
+					      "volume": 1029806.54,
+					      "amount": 371036.701985,
+					      "bis1": [0.3501, 172.69],
+					      "ask1": [0.36, 639.19],
+					      "upOrDown": -1,
+					      "pricePrecision": 4,
+					      "volumePrecision": 2,
+					      "order": 230,
+					      "areaId": 4,
+					      "canBuy": 1,
+					      "canSell": 1,
+					      "stopDesc": "",
+					      "quoteCurrencyName": "",
+					      "baseCurrencyName": "玩客币(链克)",
+					      "minBuyVolume": 5,
+					      "minBuyAmount": 0,
+					      "minSellVolume": 5,
+					      "fixedBuyPrice": 0,
+					      "weekOpen": 0.3188,
+					      "siteId": 1
 				},
 				......
 			}
@@ -58,4 +66,13 @@ API地址：
 		bis1：买一价格，买一数量
 		ask1：卖一价格，卖一数量
 		upOrDown：相比较上一笔交易的涨跌
+		canBuy: 是否可买入，1表示可买
+		canSell: 是否可卖，1表示可卖
+		pricePrecision: 价格小数位
+		volumePrecision: 数量小数位
+		minBuyVolume: 最小买入量
+		minBuyAmount: 最小买入金额
+		minSellVolume: 最小卖出量
+		fixedBuyPrice: 固定买入价
+		weekOpen: 7天内开盘价
 
