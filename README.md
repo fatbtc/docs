@@ -13,7 +13,7 @@ https://github.com/fatbtc/news-and-ticker/blob/master/depth_api_cn.md
 
 
 Depth API
-https://github.com/fatbtc/news-and-ticker/blob/master/depth_api_cn.md
+https://github.com/fatbtc/news-and-ticker/blob/master/depth_api_en.md
 
 
 最新成交API
