@@ -57,7 +57,7 @@ The result is a JSON object, formats are as follow：
 
 
 
-Key reture value description：
+Key return value description：
 
 		symbol:  trading pair
 		timestamp:  timestamp
